@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Heileigh Rymer"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer     I went to Littlerock High School as a part of the class of 2019. I often prefer english over math, especially algebra, primarily beacuse i enjoy reading and math is very difficult at times! 
+
   
 
      
@@ -25,14 +26,16 @@ Where did you attend High School, and did you graduate? Compare english class to
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
-### my answer   
+### my answer   I currently have a Lenovo laptop, and I do have pretty decent internet access at home. I would also rate my computer skills a 6/10.
+
   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
-### my answer     
+### my answer     I am comfortable with my given name Heileigh, but my friends do also call me Heils or Hulu.
+
   
    
  
@@ -43,7 +46,8 @@ What name do you prefer to be called by your classmates and instructor, if your 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
-### my answer     
+### my answer     I am aiming for a bachelors degree in ecology and evolutionary science. 
+
   
    
  
@@ -54,7 +58,8 @@ What do you want to achieve in life?  What college subject do you think would be
 ## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
-### my answer     
+### my answer     I have never been to a foreign country, but I would love to go to Iceland! I have also never been in the military but if I were drafted I would join the airforce or the marines.
+
   
    
   
@@ -67,7 +72,7 @@ Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a gene
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
  
 
-### my answer     
+### my answer     I am taking math 115 as a prerequisite for my degree, and I will also have to take math 150 and 160.
   
    
  
